@@ -1,0 +1,19 @@
+GIT COMMAND REFERENCE
+
+Repository:
+git init
+git status
+
+Changes:
+git add .
+git commit -m "message"
+
+Remote:
+git remote -v
+git push
+git pull
+
+Branches:
+git branch
+git switch -c branch-name
+git merge branch-name
