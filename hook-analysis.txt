@@ -1,0 +1,9 @@
+Git hooks are stored in the local .git/hooks directory and are not shared automatically through git push.
+
+A team can share hooks by creating a tracked .githooks folder in the repository.
+
+Git config core.hooksPath .githooks allows Git to use the shared hooks folder.
+
+The git commit --no-verify command can bypass commit hooks and allow invalid commits.
+
+Therefore, hooks improve code quality but should not be treated as complete security protection.
