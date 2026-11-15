@@ -1,0 +1,7 @@
+CampusNotes - Subject List
+
+1. Data Structures and Algorithms
+2. Object Oriented Programming
+3. Version Control Systems
+4. Discrete Mathematics
+5. Computer Networks
