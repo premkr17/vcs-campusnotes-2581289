@@ -1,1 +1,12 @@
 Note 1: Git basics
+
+Git is a distributed version control system.
+
+Basic commands:
+- git init: Initialise a repository.
+- git add: Stage changes.
+- git commit: Save changes.
+- git push: Upload commits.
+- git pull: Download and integrate changes.
+
+GitHub is a platform for hosting Git repositories.
