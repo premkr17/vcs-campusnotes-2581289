@@ -1,0 +1,30 @@
+CAMPUSNOTES - ACADEMIC NOTE TEMPLATE
+====================================
+
+Subject:
+Topic:
+Date:
+Student Name:
+
+SUMMARY:
+Write a short summary of the topic here.
+
+KEY POINTS:
+1.
+2.
+3.
+
+IMPORTANT DEFINITIONS:
+-
+
+EXAMPLES:
+-
+
+REFERENCES:
+-
+
+REVISION NOTES:
+-
+
+====================================
+End of Note Template
